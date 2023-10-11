@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a 19-year-old tech enthusiast on an exciting journey through the world of programming. My focus is on back-end development, but I'm also honing my skills as a full stack developer. With a solid grasp of HTML, databases, Python, and Java, I'm constantly pushing my boundaries to build creative and practical solutions.
+I'm a 20-year-old tech enthusiast on an exciting journey through the world of programming. My focus is on back-end development, but I'm also honing my skills as a full stack developer. With a solid grasp of HTML, databases, Python, and Java, I'm constantly pushing my boundaries to build creative and practical solutions.
 
 ## Projects
 
